@@ -13,7 +13,8 @@
     "pages/teacher/publish/publish",
     "pages/personcenter/teacher_edit/teacher_edit",
     "pages/personcenter/parent_edit/parent_edit",
-    "pages/personcenter/myorder/myorder"
+    "pages/personcenter/myorder/myorder",
+    "pages/personcenter/about_us/contact/contact"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -28,20 +29,20 @@
     "borderStyle": "white",
     "list": [
       {
-        "iconPath": "img/tiku.png",
-        "selectedIconPath": "img/tiku.png",
+        "iconPath": "img/椭圆91拷贝@2x.png",
+        "selectedIconPath": "img/椭圆9拷贝@2x.png",
         "pagePath": "pages/student/student",
         "text": "找学生"
       },
       {
-        "iconPath": "img/teacher.png",
-        "selectedIconPath": "img/teacher.png",
+        "iconPath": "img/形状5拷贝3@2x.png",
+        "selectedIconPath": "img/形状5拷贝31@2x.png",
         "pagePath": "pages/teacher/teacher",
         "text": "找老师"
       },
       {
-        "iconPath": "img/person.png",
-        "selectedIconPath": "img/person.png",
+        "iconPath": "img/形状2拷贝@2x.png",
+        "selectedIconPath": "img/形状21拷贝@2x.png",
         "pagePath": "pages/personcenter/personcenter",
         "text": "个人中心"
       }
